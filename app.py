@@ -5,7 +5,7 @@ from streamlit_option_menu import option_menu
 
 st.set_page_config(
     page_title="Analisis Data Ekspor-Impor Indonesia",
-    page_icon="https://www.bps.go.id/images/bps.ico",
+    # page_icon="https://www.bps.go.id/images/bps.ico",
     layout="wide",
     initial_sidebar_state="expanded"
 )
